@@ -1,3 +1,4 @@
+Branch filter check.
 # Class 07 lab: from a GitHub repository to a published image
 
 Work in pairs and build the activity progressively:
